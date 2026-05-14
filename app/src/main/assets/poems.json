@@ -1,0 +1,669 @@
+[
+  {
+    "id": 1,
+    "title": "Vishwa Vinutana",
+    "poet": "Kuvempu",
+    "year": "1924",
+    "text": "ವಿಶ್ವ ವಿನೂತನ...",
+    "bhavartha": "Universal harmony and humanity.",
+    "audioFile": "poem1",
+    "difficultWords": [
+      {
+        "word": "ವಿನೂತನ",
+        "meaning": "New"
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Bharatha Bhoomi",
+    "poet": "D. R. Bendre",
+    "year": "1945",
+    "text": "ಭಾರತ ಭೂಮಿ ನನ್ನ ತಾಯಿ",
+    "bhavartha": "The poet praises mother India.",
+    "difficultWords": [
+      {
+        "word": "ಭೂಮಿ",
+        "meaning": "Land"
+      }
+    ],
+    "audioFile": "poem2"
+  },
+
+  {
+    "id": 3,
+    "title": "Kannada Matha",
+    "poet": "K. S. Narasimhaswamy",
+    "year": "1950",
+    "text": "ಕನ್ನಡ ತಾಯಿ ಅಮರವಾಗಲಿ",
+    "bhavartha": "The poem celebrates Kannada mother tongue.",
+    "difficultWords": [
+      {
+        "word": "ಅಮರ",
+        "meaning": "Immortal"
+      }
+    ],
+    "audioFile": "poem3"
+  },
+
+    {
+      "id": 4,
+      "title": "Jaya Bharatha Jananiya Tanujate",
+      "poet": "Kuvempu",
+      "year": "1924",
+      "text": "ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ, ಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ!",
+      "bhavartha": "The state anthem of Karnataka, celebrating the land as the daughter of Mother India.",
+      "difficultWords": [
+        { "word": "ತನುಜಾತೆ", "meaning": "Daughter" },
+        { "word": "ಜನನಿ", "meaning": "Mother" }
+      ],
+      "audioFile": "poem4"
+    },
+    {
+      "id": 5,
+      "title": "Haki Harutide Nodidira",
+      "poet": "D. R. Bendre",
+      "year": "1932",
+      "text": "ಹಕ್ಕಿ ಹಾರುತಿದೆ ನೋಡಿದಿರಾ?",
+      "bhavartha": "A metaphor for the swift passage of time, depicted as a bird flying across the sky.",
+      "difficultWords": [
+        { "word": "ಹಕ್ಕಿ", "meaning": "Bird" },
+        { "word": "ನೋಡಿದಿರಾ", "meaning": "Did you see?" }
+      ],
+      "audioFile": "poem5"
+    },
+    {
+      "id": 6,
+      "title": "Baarisu Kannada Dindimava",
+      "poet": "Kuvempu",
+      "year": "1930",
+      "text": "ಬಾರಿಸು ಕನ್ನಡ ಡಿಂಡಿಮವ ಓ ಕರ್ನಾಟಕ ಹೃದಯ ಶಿವ",
+      "bhavartha": "A call to awaken the Kannada spirit and celebrate the culture loudly like a drum.",
+      "difficultWords": [
+        { "word": "ಡಿಂಡಿಮ", "meaning": "A small drum" },
+        { "word": "ಬಾರಿಸು", "meaning": "To play/strike" }
+      ],
+      "audioFile": "poem6"
+    },
+    {
+      "id": 7,
+      "title": "Jogada Siri Belakinalli",
+      "poet": "K. S. Nissar Ahmed",
+      "year": "1976",
+      "text": "ಜೋಗದ ಸಿರಿ ಬೆಳಕಿನಲ್ಲಿ ತುಂಗೆಯ ತನಿ ಮಡಲಿನಲ್ಲಿ",
+      "bhavartha": "A beautiful description of Karnataka's natural heritage, including Jog Falls and the Tunga river.",
+      "difficultWords": [
+        { "word": "ಸಿರಿ", "meaning": "Wealth/Beauty" },
+        { "word": "ತನಿ", "meaning": "Pure/Cold" }
+      ],
+      "audioFile": "poem7"
+    },
+    {
+      "id": 8,
+      "title": "Kurigalu Saar Kurigalu",
+      "poet": "K. S. Nissar Ahmed",
+      "year": "1960",
+      "text": "ಕುರಿಗಳು ಸಾರ್ ಕುರಿಗಳು",
+      "bhavartha": "A satirical take on human behavior, comparing people to sheep following blindly.",
+      "difficultWords": [
+        { "word": "ಕುರಿಗಳು", "meaning": "Sheep" },
+        { "word": "ಸಾರ್", "meaning": "Sir" }
+      ],
+      "audioFile": "poem8"
+    },
+    {
+      "id": 9,
+      "title": "Tanuvu Ninnadu Manavu Ninnadu",
+      "poet": "Kuvempu",
+      "year": "1930",
+      "text": "ತನುವು ನಿನ್ನದು ಮನವು ನಿನ್ನದು ಎನ್ನ ಜೀವನ ಧನವು ನಿನ್ನದು",
+      "bhavartha": "A devotional poem expressing total surrender of body, mind, and wealth to the divine.",
+      "difficultWords": [
+        { "word": "ತನು", "meaning": "Body" },
+        { "word": "ಧನ", "meaning": "Wealth" }
+      ],
+      "audioFile": "poem9"
+    },
+    {
+      "id": 10,
+      "title": "O Nanna Chetana",
+      "poet": "Kuvempu",
+      "year": "1963",
+      "text": "ಓ ನನ್ನ ಚೇತನ ಆಗು ನೀ ಅನಿಕೇತನ",
+      "bhavartha": "A philosophical urge for the soul to become 'unhoused' or free from narrow boundaries.",
+      "difficultWords": [
+        { "word": "ಚೇತನ", "meaning": "Spirit/Soul" },
+        { "word": "ಅನಿಕೇತನ", "meaning": "Without a fixed house/Universal" }
+      ],
+      "audioFile": "poem10"
+    },
+    {
+      "id": 11,
+      "title": "Bannada Tagadina Tutturi",
+      "poet": "G. P. Rajarathnam",
+      "year": "1940",
+      "text": "ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ ಕಾಸಿಗೆ ಕೊಂಡನು ಕಸ್ತೂರಿ",
+      "bhavartha": "A famous children's poem about a boy named Kasturi who buys a colorful tin trumpet.",
+      "difficultWords": [
+        { "word": "ತುತ್ತೂರಿ", "meaning": "Trumpet" },
+        { "word": "ಕಾಸು", "meaning": "Coin/Money" }
+      ],
+      "audioFile": "poem11"
+    },
+    {
+      "id": 12,
+      "title": "Deepavu Ninnade Galiyu Ninnade",
+      "poet": "K. S. Narasimhaswamy",
+      "year": "1950",
+      "text": "ದೀಪವು ನಿನ್ನದೆ ಗಾಳಿಯು ನಿನ್ನದೆ",
+      "bhavartha": "Expresses the idea that everything belongs to God; the lamp and the wind that might blow it out.",
+      "difficultWords": [
+        { "word": "ದೀಪ", "meaning": "Lamp" },
+        { "word": "ಗಾಳಿ", "meaning": "Wind" }
+      ],
+      "audioFile": "poem12"
+    },
+    {
+      "id": 13,
+      "title": "Kodagana Koli Nungitta",
+      "poet": "Shishunala Sharif",
+      "year": "1860",
+      "text": "ಕೊಡಗನ ಕೋಳಿ ನುಂಗಿತ್ತಾ ನೋಡವ್ವ ತಂಗಿ",
+      "bhavartha": "A mystic (Tatvapada) poem using riddle-like metaphors to explain spiritual truths.",
+      "difficultWords": [
+        { "word": "ನುಂಗಿತು", "meaning": "Swallowed" },
+        { "word": "ಕೋಳಿ", "meaning": "Hen" }
+      ],
+      "audioFile": "poem13"
+    },
+    {
+      "id": 14,
+      "title": "Moodala Maneya",
+      "poet": "D. R. Bendre",
+      "year": "1935",
+      "text": "ಮೂಡಲ ಮನೆಯ ಮುತ್ತಿನ ನೀರಿನ",
+      "bhavartha": "A lyrical description of the sunrise, imagining the eastern sky as a house of pearls.",
+      "difficultWords": [
+        { "word": "ಮೂಡಲ", "meaning": "East" },
+        { "word": "ಮುತ್ತು", "meaning": "Pearl" }
+      ],
+      "audioFile": "poem14"
+    },
+    {
+      "id": 15,
+      "title": "Namma Mane",
+      "poet": "Kuvempu",
+      "year": "1936",
+      "text": "ನಮ್ಮ ಮನೆ ಈ ಸುಂದರ ಮನೆ",
+      "bhavartha": "A simple poem for children describing the beauty and warmth of one's home.",
+      "difficultWords": [
+        { "word": "ಮನೆ", "meaning": "House" },
+        { "word": "ಸುಂದರ", "meaning": "Beautiful" }
+      ],
+      "audioFile": "poem15"
+    },
+    {
+      "id": 16,
+      "title": "Belagu",
+      "poet": "D. R. Bendre",
+      "year": "1932",
+      "text": "ಬೆಳಗು ಬಂದಿದೆ ಗೆಳೆಯ ಎದ್ದೇಳು",
+      "bhavartha": "Encouraging a friend to wake up and witness the early morning light and its freshness.",
+      "difficultWords": [
+        { "word": "ಬೆಳಗು", "meaning": "Light/Dawn" },
+        { "word": "ಎದ್ದೇಳು", "meaning": "Wake up" }
+      ],
+      "audioFile": "poem16"
+    },
+    {
+      "id": 17,
+      "title": "Anandamaya Ee Jaga Hrudaya",
+      "poet": "Kuvempu",
+      "year": "1940",
+      "text": "ಆನಂದಮಯ ಈ ಜಗ ಹೃದಯ",
+      "bhavartha": "Describes the world as a place of joy and divine grace, removing fear from the heart.",
+      "difficultWords": [
+        { "word": "ಆನಂದಮಯ", "meaning": "Full of joy" },
+        { "word": "ಜಗ", "meaning": "World" }
+      ],
+      "audioFile": "poem17"
+    },
+    {
+      "id": 18,
+      "title": "Nayi Mari",
+      "poet": "Panchje Mangesh Rao",
+      "year": "1920",
+      "text": "ನಾಯಿ ಮರಿ ನಾಯಿ ಮರಿ ತಿಂಡಿ ಬೇಕೆ?",
+      "bhavartha": "A classic nursery rhyme asking a puppy if it wants snacks or a walk.",
+      "difficultWords": [
+        { "word": "ನಾಯಿ", "meaning": "Dog" },
+        { "word": "ತಿಂಡಿ", "meaning": "Snacks" }
+      ],
+      "audioFile": "poem18"
+    },
+    {
+      "id": 19,
+      "title": "Doni Sagali",
+      "poet": "Kuvempu",
+      "year": "1930",
+      "text": "ದೋಣಿ ಸಾಗಲಿ ಮುಂದೆ ಹೋಗಲಿ",
+      "bhavartha": "A poem about a boat moving forward on the water, representing progress in life.",
+      "difficultWords": [
+        { "word": "ದೋಣಿ", "meaning": "Boat" },
+        { "word": "ಸಾಗಲಿ", "meaning": "Let it move" }
+      ],
+      "audioFile": "poem19"
+    },
+    {
+      "id": 20,
+      "title": "Rayaru Bandaru Maavana Manege",
+      "poet": "K. S. Narasimhaswamy",
+      "year": "1942",
+      "text": "ರಾಯರು ಬಂದರು ಮಾವನ ಮನೆಗೆ",
+      "bhavartha": "A lighthearted folk-style poem about a son-in-law visiting his father-in-law's house.",
+      "difficultWords": [
+        { "word": "ರಾಯರು", "meaning": "Respected person/Husband" },
+        { "word": "ಮನೆಗೆ", "meaning": "To the house" }
+      ],
+      "audioFile": "poem20"
+    },
+    {
+      "id": 21,
+      "title": "Negila Hidida",
+      "poet": "Kuvempu",
+      "year": "1930",
+      "text": "ನೇಗಿಲ ಹಿಡಿದ ಹೊಲದೊಳು ಹಾಡುತ",
+      "bhavartha": "Tribute to the farmer (Uluva Yogi), who serves without expecting rewards.",
+      "difficultWords": [
+        { "word": "ನೇಗಿಲ", "meaning": "Plough" },
+        { "word": "ಹೊಲ", "meaning": "Field" }
+      ],
+      "audioFile": "poem21"
+    },
+    {
+      "id": 22,
+      "title": "Idu Bharata Maateya Punya Nela",
+      "poet": "G. S. Shivarudrappa",
+      "year": "1960",
+      "text": "ಇದು ಭಾರತ ಮಾತೆಯ ಪುಣ್ಯ ನೆಲ",
+      "bhavartha": "A patriotic poem describing India as a sacred land with a rich cultural history.",
+      "difficultWords": [
+        { "word": "ಪುಣ್ಯ", "meaning": "Sacred/Holy" },
+        { "word": "ನೆಲ", "meaning": "Land" }
+      ],
+      "audioFile": "poem22"
+    },
+    {
+      "id": 23,
+      "title": "Kunidaduva Navile",
+      "poet": "Panchje Mangesh Rao",
+      "year": "1925",
+      "text": "ಕುಣಿದಾಡುವ ನವಿಲೇ ಅಂದದ ನವಿಲೇ",
+      "bhavartha": "A children's poem admiring the beauty of a dancing peacock.",
+      "difficultWords": [
+        { "word": "ನವಿಲು", "meaning": "Peacock" },
+        { "word": "ಕುಣಿದಾಡು", "meaning": "To dance" }
+      ],
+      "audioFile": "poem23"
+    },
+  {
+    "id": 24,
+    "title": "Aadu Baare Nanna Gelati",
+    "poet": "K. S. Narasimhaswamy",
+    "year": "1945",
+    "text": "ಆಡು ಬಾರೆ ನನ್ನ ಗೆಳತಿ ಹಸಿರು ಹಾಸಿನ ಮೇಲೆ",
+    "bhavartha": "An invitation to a close friend to come play and relax on the lush green meadows.",
+    "difficultWords": [
+      { "word": "ಹಾಸಿನ", "meaning": "Carpet / Mat" },
+      { "word": "ಗೆಳತಿ", "meaning": "Female friend" }
+    ],
+    "audioFile": "poem23"
+  },
+
+  {
+    "id": 25,
+    "title": "Thayige Vandane Shreyava Thandane",
+    "poet": "Kayyara Kinhanna Rai",
+    "year": "1950",
+    "text": "ತಾಯಿಗೆ ವಂದನೆ ಸಲ್ಲಿಸು ಅವಳೇ ಶ್ರೇಯಸ್ಸು ತರುವವಳು",
+    "bhavartha": "A respectful tribute to motherland and birth mother, acknowledging them as the true source of prosperity.",
+    "difficultWords": [
+      { "word": "ವಂದನೆ", "meaning": "Salutation / Greeting" },
+      { "word": "ಶ್ರೇಯಸ್ಸು", "meaning": "Well-being / Prosperity" }
+    ],
+    "audioFile": "poem25"
+  },
+  {
+    "id": 26,
+    "title": "Bannada Hakki",
+    "poet": "Kuvempu",
+    "year": "1936",
+    "text": "ಬಣ್ಣದ ಹಕ್ಕಿ ಹಾರುತ್ತಾ ಬಂತು ನನಗೂ ರೆಕ್ಕೆ ತಂತು",
+    "bhavartha": "A playful children's poem expressing a child's imaginative desire to get wings from a colorful bird.",
+    "difficultWords": [
+      { "word": "ಬಣ್ಣದ", "meaning": "Colorful" },
+      { "word": "ರೆಕ್ಕೆ", "meaning": "Wings" }
+    ],
+    "audioFile": "poem26"
+  },
+  {
+    "id": 27,
+    "title": "Akaashave Bilali Mele",
+    "poet": "H. S. Venkateshamurthy",
+    "year": "1990",
+    "text": "ಆಕಾಶವೇ ಬೀಳಲಿ ಮೇಲೆ ಧೃತಿಗೆಡಬೇಡ ಓ ಮನವೇ",
+    "bhavartha": "An inspiring poem advising the mind to stay strong even if catastrophic troubles fall upon you.",
+    "difficultWords": [
+      { "word": "ಧೃತಿಗೆಡಬೇಡ", "meaning": "Do not lose courage" },
+      { "word": "ಮನವೇ", "meaning": "Oh mind" }
+    ],
+    "audioFile": "poem27"
+  },
+  {
+    "id": 28,
+    "title": "Kerege Haara",
+    "poet": "Traditional Folk",
+    "year": "1800",
+    "text": "ಕೆರೆಗೆ ಹಾರವ ತಂದು ನೀರು ನಿಲ್ಲಿಸಿದ ಭಾಗ್ಯವತಿ",
+    "bhavartha": "A classic folk narrative honoring the supreme sacrifice made by a woman to save her village reservoir.",
+    "difficultWords": [
+      { "word": "ಕೆರೆಗೆ", "meaning": "To the lake / pond" },
+      { "word": "ಹಾರವ", "meaning": "Sacrificial offering / Garland" }
+    ],
+    "audioFile": "poem28"
+  },
+  {
+    "id": 29,
+    "title": "Suryana Kanthಿಗೆ Jagave belagitu",
+    "poet": "Chennaveera Kanavi",
+    "year": "1975",
+    "text": "ಸೂರ್ಯನ ಕಾಂತಿಗೆ ಜಗವೇ ಬೆಳಗಿತು ಕತ್ತಲೆ ಓಡಿತು",
+    "bhavartha": "Describing how darkness flees instantly when the brilliant sun illuminates the entire world.",
+    "difficultWords": [
+      { "word": "ಕಾಂತಿಗೆ", "meaning": "To the brightness / radiance" },
+      { "word": "ಜಗವೇ", "meaning": "The whole world" }
+    ],
+    "audioFile": "poem29"
+  },
+  {
+    "id": 30,
+    "title": "Gangaavataranada Premada Dhare",
+    "poet": "Da. Ra. Bendre",
+    "year": "1951",
+    "text": "ಗಂಗೆಯ ಧಾರೆ ಇಳಿದು ಬಂತು ಧರೆಗೆ ಜೀವ ತುಂಬಲು",
+    "bhavartha": "A poetic account of river Ganga descending to Earth to rejuvenate all living beings.",
+    "difficultWords": [
+      { "word": "ಧಾರೆ", "meaning": "Stream" },
+      { "word": "ಧರೆಗೆ", "meaning": "To the earth" }
+    ],
+    "audioFile": "poem30"
+  },
+  {
+    "id": 31,
+    "title": "Nenapina angaladalli",
+    "poet": "G. S. Shivarudrappa",
+    "year": "1980",
+    "text": "ನೆನಪಿನ ಅಂಗಳದಲ್ಲಿ ಹಳೆಯ ದಿನಗಳು ಕುಣಿದವು",
+    "bhavartha": "A reflective piece where nostalgic past days vividly dance across the courtyard of memory.",
+    "difficultWords": [
+      { "word": "ಅಂಗಳದಲ್ಲಿ", "meaning": "In the courtyard" },
+      { "word": "ಕುಣಿದವು", "meaning": "Danced" }
+    ],
+    "audioFile": "poem31"
+  },
+  {
+"id": 32,
+"title": "Tanuvu Ninnadu Manavu Ninnadu",
+"poet": "Kuvempu",
+"year": "1935",
+"text": "ತನುವು ನಿನ್ನದು ಮನವು ನಿನ್ನದು ಎನ್ನ ಜೀವನ ಧನವು ನಿನ್ನದು",
+"bhavartha": "A complete surrender to the divine power, stating that the body, mind, and worldly wealth all belong to God.",
+"difficultWords": [
+{ "word": "ತನುವು", "meaning": "Body" },
+{ "word": "ಧನವು", "meaning": "Wealth" }
+],
+"audioFile": "poem32"
+},
+{
+"id": 33,
+"title": "Yede Tumbi Haadidenu",
+"poet": "K. S. Narasimhaswamy",
+"year": "1955",
+"text": "ಎದೆ ತುಂಬಿ ಹಾಡಿದೆನು ಅಂದು ನಾನು ಮನವಿಟ್ಟು ಕೇಳಿದಿರಿ ಅಂದು ನೀವು",
+"bhavartha": "An emotional poem reflecting on the bond between an artist who performs from the heart and an audience that listens with deep focus.",
+"difficultWords": [
+{ "word": "ತುಂಬಿ", "meaning": "Filled with" },
+{ "word": "ಮನವಿಟ್ಟು", "meaning": "With full attention" }
+],
+"audioFile": "poem33"
+},
+{
+"id": 34,
+"title": "Yaava Mohana Murali Kareyito",
+"poet": "Gopalakrishna Adiga",
+"year": "1950",
+"text": "ಯಾವ ಮೋಹನ ಮುರಲಿ ಕರೆಯಿತೊ ದೂರ ತೀರಕೆ ನಿನ್ನನು",
+"bhavartha": "Expressing a deep spiritual or existential restlessness caused by an alluring, distant, and unseen divine flute.",
+"difficultWords": [
+{ "word": "ಮುರಲಿ", "meaning": "Flute" },
+{ "word": "ತೀರಕೆ", "meaning": "To the shore / destination" }
+],
+"audioFile": "poem34"
+},
+{
+"id": 35,
+"title": "Badavanadare Enu Priye",
+"poet": "K. S. Narasimhaswamy",
+"year": "1943",
+"text": "ಬಡವನಾದರೆ ಏನು ಪ್ರಿಯೆ ಕೈಲೊಂದು ದೀಪವಿದ್ದರೆ ಸಾಕು",
+"bhavartha": "A romantic poem conveying that material poverty does not matter if a couple shares deep mutual love and a small guiding light.",
+"difficultWords": [
+{ "word": "ಬಡವನಾದರೆ", "meaning": "If one becomes poor" },
+{ "word": "ಪ್ರಿಯೆ", "meaning": "Beloved female" }
+],
+"audioFile": "poem35"
+},
+{
+"id": 36,
+"title": "Baa Illi Sambhavisu",
+"poet": "Kuvempu",
+"year": "1954",
+"text": "ಇಲ್ಲಿ ಬಾ ಸಂಭವಿಸು ಇಂದೆನ್ನ ಹೃದಯದಲಿ ನಿತ್ಯವೂ ಅವತರಿಪ ಸತ್ಯಾವತಾರ",
+"bhavartha": "Inviting the absolute embodiment of truth and divinity to manifest everyday within the poet's own heart.",
+"difficultWords": [
+{ "word": "ಸಂಭವಿಸು", "meaning": "To manifest / happen" },
+{ "word": "ನಿತ್ಯವೂ", "meaning": "Every day / eternally" }
+],
+"audioFile": "poem36"
+},
+
+    {
+      "id": 37,
+      "title": "Shradhonjali",
+      "poet": "B. M. Srikantaiah",
+      "year": "1926",
+      "text": "ಮುನ್ನಡೆದು ಬಾ ಮಗನೇ ಹೆದರದಿರು ನೀನು ಸತ್ಯದ ಹಾದಿಯಲಿ",
+      "bhavartha": "A motivational message urging the youth to step forward on the path of truth without fear.",
+      "difficultWords": [
+        { "word": "ಮುನ್ನಡೆದು", "meaning": "Moving forward" },
+        { "word": "ಹಾದಿಯಲಿ", "meaning": "On the path" }
+      ],
+      "audioFile": "poem37"
+    },
+    {
+      "id": 38,
+      "title": "Nene nene nannedeya Deepava",
+      "poet": "G. S. Shivarudrappa",
+      "year": "1978",
+      "text": "ಹಚ್ಚಬೇಕಾದ ದೀಪಗಳು ಎಷ್ಟೋ ಇವೆ ನಮ್ಮ ಕತ್ತಲೆಯ ಮನದೊಳಗೆ",
+      "bhavartha": "A philosophical call to light the lamps of knowledge and awareness within our dark minds.",
+      "difficultWords": [
+        { "word": "ಹಚ್ಚಬೇಕಾದ", "meaning": "That which needs to be lit" },
+        { "word": "ಮನದೊಳಗೆ", "meaning": "Inside the mind" }
+      ],
+      "audioFile": "poem38"
+    },
+    {
+      "id": 39,
+      "title": "Sojugaada Sooju Mallige",
+      "poet": "Traditional Folk",
+      "year": "1700",
+      "text": "ಸೋಜುಗಾದ ಸೂಜು ಮಲ್ಲಿಗೆ ಆರಾಧಿಸುವೆ ನಿನ್ನ ಚರಣಕ್ಕೆ",
+      "bhavartha": "A famous devotional folk song dedicated to Lord Shiva, using natural flowers as an offering.",
+      "difficultWords": [
+        { "word": "ಸೋಜುಗಾದ", "meaning": "Wonderful / Miraculous" },
+        { "word": "ಚರಣಕ್ಕೆ", "meaning": "To the divine feet" }
+      ],
+      "audioFile": "poem39"
+    },
+    {
+      "id": 40,
+      "title": "Amma Ninna Edelyaladalli",
+      "poet": "P. Lankesh",
+      "year": "1973",
+      "text": "ಅಮ್ಮ ನಿನ್ನ ಎದೆಯಾಳದಲ್ಲಿ ನಾನು ಕಂಡೆ ಪ್ರೀತಿಯ ಕಡಲನ್ನು",
+      "bhavartha": "A deeply emotional poem reflecting on the boundless and ocean-like love found in a mother's heart.",
+      "difficultWords": [
+        { "word": "ಎದೆಯಾಳದಲ್ಲಿ", "meaning": "In the depth of the chest/heart" },
+        { "word": "ಕಡಲನ್ನು", "meaning": "The ocean" }
+      ],
+      "audioFile": "poem40"
+    },
+    {
+      "id": 41,
+      "title": "Nodu Nodu Hombelaku",
+      "poet": "Chennaveera Kanavi",
+      "year": "1968",
+      "text": "ನೋಡು ನೋಡು ಹೊಂಬೆಳಕು ಮೂಡುತಿದೆ ಮೂಡಣದ ದಿಗಂತದಲಿ",
+      "bhavartha": "Celebrating the beautiful golden light of dawn rising over the eastern horizon.",
+      "difficultWords": [
+        { "word": "ಹೊಂಬೆಳಕು", "meaning": "Golden light" },
+        { "word": "ಮೂಡಣದ", "meaning": "Eastern" }
+      ],
+      "audioFile": "poem41"
+    },
+    {
+      "id": 42,
+      "title": "Beladingalu Ninnadondu Nagu",
+      "poet": "K. S. Narasimhaswamy",
+      "year": "1948",
+      "text": "ಬೆಳದಿಂಗಳು ನಿನ್ನದೊಂದು ನಗು ತಂಗಾಳಿ ನಿನ್ನದೊಂದು ಮಾತು",
+      "bhavartha": "A romantic poem comparing a lover's smile to moonlight and her words to a cool evening breeze.",
+      "difficultWords": [
+        { "word": "ಬೆಳದಿಂಗಳು", "meaning": "Moonlight" },
+        { "word": "ತಂಗಾಳಿ", "meaning": "Cool breeze" }
+      ],
+      "audioFile": "poem42"
+    },
+    {
+      "id": 43,
+      "title": "Kaanoona Kelage Yellaru Konave",
+      "poet": "Chandrashekhara Kambara",
+      "year": "1985",
+      "text": "ಕಾನೂನ ಕೆಳಗೆ ಎಲ್ಲರೂ ಒಂದೇ ಎನ್ನುವ ಮಾತು ಬರಿ ಸುಳ್ಳೇ",
+      "bhavartha": "A social satire critiquing the systemic inequalities where justice is not served equally to all.",
+      "difficultWords": [
+        { "word": "ಕಾನೂನ", "meaning": "Law's" },
+        { "word": "ಸುಳ್ಳೇ", "meaning": "A lie" }
+      ],
+      "audioFile": "poem43"
+    },
+    {
+      "id": 44,
+      "title": "Bidiru Naanu yaarigalladavalu",
+      "poet": "Traditional Folk",
+      "year": "1850",
+      "text": "ಬಿದಿರು ನಾನು ಯಾರಿಗಲ್ಲದವಳು ಎಲ್ಲರ ಬಾಳಿಗೆ ಆಸರೆಯಾದವಳು",
+      "bhavartha": "A metaphor from the perspective of bamboo, showing how it serves human lives from cradle to funeral.",
+      "difficultWords": [
+        { "word": "ಬಿದಿರು", "meaning": "Bamboo" },
+        { "word": "ಆಸರೆಯಾದವಳು", "meaning": "One who became a support" }
+      ],
+      "audioFile": "poem44"
+    },
+    {
+      "id": 45,
+      "title": "Ondu Mugila Chithra",
+      "poet": "H. S. Venkateshamurthy",
+      "year": "1995",
+      "text": "ಒಂದು ಮುಗಿಲ ಚಿತ್ರ ಬಿಡಿಸಿದೆ ನಿನ್ನ ನೆನಪಿನ ಗೋಡೆಯ ಮೇಲೆ",
+      "bhavartha": "An artistic expression of drawing a cloud picture on the walls of memory using a loved one's thoughts.",
+      "difficultWords": [
+        { "word": "ಮುಗಿಲ", "meaning": "Cloud's" },
+        { "word": "ಗೋಡೆಯ", "meaning": "Wall's" }
+      ],
+      "audioFile": "poem45"
+    },
+    {
+      "id": 46,
+      "title": "Belageri Banthu Soorya na ratha",
+      "poet": "Da. Ra. Bendre",
+      "year": "1936",
+      "text": "ಬೆಳಗೇರಿ ಬಂತು ಸೂರ್ಯನ ರಥ ಕತ್ತಲೆಯನ್ನು ಸೀಳಿಕೊಂಡು",
+      "bhavartha": "A dramatic description of the sun's chariot rising to tear through the morning darkness.",
+      "difficultWords": [
+        { "word": "ಬೆಳಗೇರಿ", "meaning": "Rising with dawn" },
+        { "word": "ಸೀಳಿಕೊಂಡು", "meaning": "Tearing through" }
+      ],
+      "audioFile": "poem46"
+    },
+    {
+      "id": 47,
+      "title": "Nanna Desha Nanna Manna",
+      "poet": "Kayyara Kinhanna Rai",
+      "year": "1962",
+      "text": "ನನ್ನ ದೇಶ ನನ್ನ ಮಣ್ಣು ಎಂದು ಹೆಮ್ಮೆಯಿಂದ ಹೇಳು ನೀನು",
+      "bhavartha": "A proud call to all citizens to declare love for their nation and soil with ultimate pride.",
+      "difficultWords": [
+        { "word": "ಮಣ್ಣು", "meaning": "Soil / Land" },
+        { "word": "ಹೆಮ್ಮೆಯಿಂದ", "meaning": "With pride" }
+      ],
+      "audioFile": "poem47"
+    },
+    {
+      "id": 48,
+      "title": "Preethigienta Doddadu Yaavudu",
+      "poet": "Jayant Kaikini",
+      "year": "2010",
+      "text": "ಪ್ರೀತಿಗಿಂತ ದೊಡ್ಡದು ಯಾವುದೂ ಇಲ್ಲ ಈ ಜಗದ ನಡುವೆ",
+      "bhavartha": "A modern romance reflection highlighting that love remains the greatest force in the universe.",
+      "difficultWords": [
+        { "word": "ಪ್ರೀತಿಗಿಂತ", "meaning": "Than love" },
+        { "word": "ಜಗದ", "meaning": "World's" }
+      ],
+      "audioFile": "poem48"
+    },
+    {
+      "id": 49,
+      "title": "Arive Guru Enuva Maatu",
+      "poet": "Allama Prabhu",
+      "year": "1150",
+      "text": "ಅರಿವೇ ಗುರು ಅರಿಯದವನೇ ಅಜ್ಞಾನಿ ಕಾಣಾ ರಾಮನಾಥ",
+      "bhavartha": "A historic Vachana stating that self-awareness and knowledge are the true ultimate inner spiritual guides.",
+      "difficultWords": [
+        { "word": "ಅರಿವೇ", "meaning": "Awareness / Knowledge itself" },
+        { "word": "ಅಜ್ಞಾನಿ", "meaning": "Ignorant person" }
+      ],
+      "audioFile": "poem49"
+    },
+    {
+      "id": 50,
+      "title": "Karnatakeda Siri Cheluve",
+      "poet": "Anandakanda",
+      "year": "1940",
+      "text": "ಕರ್ನಾಟಕದ ಸಿರಿ ಚೆಲುವನ್ನು ನೋಡಿ ಕಣ್ಣುಗಳು ಧನ್ಯವಾದವು",
+      "bhavartha": "Expressing a deep sense of fulfillment upon witnessing the natural and cultural beauty of Karnataka.",
+      "difficultWords": [
+        { "word": "ಚಲುವನ್ನು", "meaning": "The beauty" },
+        { "word": "ಧನ್ಯವಾದವು", "meaning": "Became blessed / grateful" }
+      ],
+      "audioFile": "poem50"
+    }
+  ]
+
+
+
+
+
+
