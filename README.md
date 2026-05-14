@@ -37,5 +37,14 @@ To reconnect youth with Kannada poetry and preserve cultural heritage.
 - Preserves language pride
 
 ---
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](home.png)
+
+### Poem Screen
+![Poem Screen](poem.png)
+
+
 
 Made with ❤️ for National Pride 🇮🇳
