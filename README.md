@@ -43,8 +43,9 @@ To reconnect youth with Kannada poetry and preserve cultural heritage.
 ![Home Screen](home.png)
 
 ### Poem Screen
-![Poem Screen](poem.png)
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/654dc264-8817-4f02-b917-9b5b8a068d56" />
 
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/0b1d2d6f-2821-4e5f-be23-fc6d43dbffba" />
 
 
 Made with ❤️ for National Pride 🇮🇳
