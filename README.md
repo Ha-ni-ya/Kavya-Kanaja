@@ -1,40 +1,110 @@
-# 📖 Kavya-Kanaja (Poetry Granary)
+# Kavya Kanaja 📚
 
-An Android app built using Kotlin + Jetpack Compose to revive Kannada literature for the younger generation.
-
----
-
-## 🌟 Features
-
-- Poem of the Day (auto daily update)
-- Listen & Learn (audio recitation)
-- Word Meanings popup
-- Bhavartha (simple explanations)
-- Poet’s Corner (Jnanpith awardees)
+Kavya Kanaja is an Android application developed using Kotlin and Jetpack Compose to preserve and promote Kannada literature among younger generations. The app provides access to famous Kannada poems, meanings, audio recitations, favourite collections, and biographies of Jnanpith award-winning poets.
 
 ---
 
-## 🛠 Tech Stack
+# Problem Statement
 
-- Kotlin
-- Jetpack Compose
-- MediaPlayer
-- JSON storage
-- Android Studio
+Many students and young readers find it difficult to understand old Kannada poems and literary works. Kannada literary pride is slowly reducing among Gen-Z audiences because traditional poems are not easily accessible in modern digital formats.
+
+Kavya Kanaja solves this problem by providing:
+
+* Simple poem access
+* Bhavartha (meaning/explanation)
+* Audio playback
+* Favourite poem collection
+* Poet biographies
+* Easy mobile-friendly UI
 
 ---
 
-## 🎯 Purpose
+# Features ✨
 
-To reconnect youth with Kannada poetry and preserve cultural heritage.
+* 📖 Poem of the Day
+* ❤️ Add poems to favourites
+* 🔊 Audio playback for poems
+* 📝 Bhavartha explanation
+* 📚 Difficult word meanings
+* 👤 Poet’s Corner with Jnanpith awardees
+* 🎨 Modern UI using Jetpack Compose
+* 📱 Bottom Navigation support
 
 ---
 
-## 🇮🇳 National Impact
+# Technologies Used
 
-- Promotes Kannada literature
-- Helps students learn easily
-- Preserves language pride
+* Kotlin
+* Jetpack Compose
+* Android Studio
+* Material 3
+* Navigation Compose
+* JSON Data Storage
+
+---
+
+# Project Structure
+
+* `data/` → Data classes and repositories
+* `ui/` → Navigation setup
+* `ui/theme/screens/` → All application screens
+* `utils/` → Favourite manager utilities
+* `assets/` → Poem JSON data
+* `res/raw/` → Audio files
+
+---
+
+# Setup Instructions ⚙️
+
+## Install Requirements
+
+* Android Studio
+* Kotlin SDK
+* Android SDK
+
+## Clone Project
+
+```bash
+git clone https://github.com/Ha-ni-ya/Kavya-Kanaja.git
+```
+
+## Open Project
+
+1. Open Android Studio
+2. Click Open Project
+3. Select the `kavyakanaja` folder
+
+## Run the App
+
+1. Connect Android device or emulator
+2. Click ▶ Run button
+
+---
+
+# Usage Guide
+
+* Open app to see Poem of the Day
+* Click any poem to view details
+* Tap ❤️ icon to save favourites
+* Tap difficult words for meanings
+* Use Play Audio button for recitation
+* Open Poet’s Corner to learn about Kannada poets
+
+---
+
+
+---
+
+# Author
+
+Developed by Haniya
+
+---
+
+# License
+
+This project is for educational and cultural preservation purposes.
+
 
 ---
 ## 📸 Screenshots
