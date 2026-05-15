@@ -118,5 +118,11 @@ This project is for educational and cultural preservation purposes.
 
 <img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/0b1d2d6f-2821-4e5f-be23-fc6d43dbffba" />
 
+### Favourite Screen
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/547eb0ea-7a77-4a8c-bbe2-bbeccaf3dd8e" />
+
+### Poet Corner
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/5abe435d-9e04-4da3-94fa-628752724fcd" />
+
 
 Made with ❤️ for National Pride 🇮🇳
